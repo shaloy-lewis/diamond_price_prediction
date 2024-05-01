@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Notes/ds_project_portfolio/diamond_price_prediction/mlruns/0/60ad88794bb149059e8a30dfbc3d8e85/artifacts
+end_time: 1713132111277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60ad88794bb149059e8a30dfbc3d8e85
+run_name: popular-toad-571
+run_uuid: 60ad88794bb149059e8a30dfbc3d8e85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713132107589
+status: 3
+tags: []
+user_id: shalo
